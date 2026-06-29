@@ -1,0 +1,5 @@
+agent,seeds_or_raters,test_accuracy_mean,test_accuracy_std,train_accuracy_mean,train_accuracy_std,model_human_disagreement_percent,kappa,type
+V-JEPA2,8,73.16,0.95,90.60,0.56,26.4,0.484,model
+VideoMAEv2,8,67.65,0.72,85.41,0.47,30.0,0.397,model
+DINOv2,8,66.90,0.73,91.96,0.38,30.2,0.399,model
+Human,~100,74.2,,,,4.8,0.906,human
